@@ -1,0 +1,37 @@
+.BlogsDiv{
+    width: 33.333%;
+    padding: 20px;
+}
+.BlogsDiv img{
+    width: 100%;
+}
+div h2{
+    padding-top:12px;
+}
+div p{
+    padding-top: 10px;
+    padding-bottom: 22px;
+        font-family: 'Roboto';
+    font-style: normal;
+    font-weight: 400;
+    font-size: 16px;
+    line-height: 19px;
+    letter-spacing: 0.13em;
+    text-transform: capitalize;
+    color: #FFFFFC; 
+}
+div span{
+    padding-top:"25px";
+    color:'#ffffff';
+    border-bottom:"2px solid #FFCE6D";
+    cursor:"pointer";
+}
+.Blogs h2{
+    font-family: 'Dancing Script';
+    font-style: normal;
+    font-weight: 700;
+    font-size: 22px;
+    line-height: 26px;
+    text-transform: capitalize;
+    color: #FFFFFC;   
+}

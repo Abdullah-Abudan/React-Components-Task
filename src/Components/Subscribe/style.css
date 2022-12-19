@@ -1,0 +1,11 @@
+.div_main{
+    display: flex;
+    width:"33.33%";
+    padding: 20px;
+}
+span{
+    text-transform: 'capitalize';
+    color: '#FFFFFC';
+    font-size:"20px";
+}
+

@@ -1,0 +1,33 @@
+.nav{
+    background-color:#101418;
+    height: 76px;
+    display: flex;
+    margin-bottom: 275px;
+}
+nav ul {
+    list-style: none;
+    display: flex;
+    align-items: center;
+    gap: 30px;
+    font-family: "Roboto";
+    font-style: normal;
+    font-weight: 700;
+    font-size: 18px;
+    line-height: 21px;
+    color: #ffffcc;
+    cursor: pointer;
+
+  }
+  nav ul li.active { 
+    border-bottom: 2px solid #A08040;
+  } 
+  nav ul li a{
+    text-decoration: none;
+    color: #FFFFCC;
+  }
+  nav>img{
+    padding-right: 50px;
+  }
+  nav li img{
+    padding-right: 50px;
+  }

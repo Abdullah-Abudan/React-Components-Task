@@ -1,0 +1,29 @@
+div.mainDivNum{
+    display: flex;
+
+}
+
+.incrementNumber,
+.span-2{
+    margin-left: 12px;
+}
+.incrementNumber{
+    font-family: 'Roboto';
+    font-style: normal;
+    font-weight: 700;
+    font-size: 48px;
+    line-height: 56px;
+    text-align: center;
+    text-transform: capitalize;
+    color: #FFCE6D;    
+}
+.span-2{
+    font-family: 'Roboto';
+    font-style: normal;
+    font-weight: 700;
+    font-size: 18px;
+    line-height: 21px;
+    text-align: center;
+    text-transform: capitalize;
+    color: #FFFFFC;    
+}

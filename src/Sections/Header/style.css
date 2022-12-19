@@ -1,0 +1,25 @@
+header{
+    background-image:linear-gradient(180deg, rgba(16, 20, 24, 0) 0%, #101418 100%),url('../../Images/Header/header.svg');
+    background-repeat: no-repeat;    
+    background-size: cover;
+    min-height: 100vh;
+    padding: 110px 0px;
+    overflow-y: hidden;
+    position: relative;
+}
+.headerContent{
+    text-align: center;
+}
+.headerContent h1{
+    font-weight: 700px;
+    font-size: 45px;
+    color: #FFFCCC;
+    padding: 15px 0;
+    font-family: 'Roboto';
+
+}
+.headerContent p{
+    font-size: 18px;
+    color: #FFFFFF;
+    padding-bottom: 21.11px;
+}

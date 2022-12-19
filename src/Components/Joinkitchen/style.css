@@ -1,0 +1,31 @@
+.joinKitchen{
+    display: flex;
+    align-items: center;
+    padding-top: 120px;
+}
+.joinKitchen h1{
+    font-family: 'Dancing Script';
+    font-style: normal;
+    font-weight: 700;
+    font-size: 36px;
+    line-height: 43px;
+    letter-spacing: 0.1em;
+    color: #FFFFFC; 
+    padding-top: 39px;
+}
+.joinKitchen p{
+    font-family: 'Roboto';
+    font-style: normal;
+    font-weight: 800;
+    font-size: 32px;
+    line-height: 38px;
+    letter-spacing: 0.02em;
+    color: #FFCE6D;  
+    margin-bottom: 40px;  
+    padding-top: 14px;
+}
+
+.joinKitchen div img{
+    width:320px;
+    height:222px ; 
+}

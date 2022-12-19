@@ -1,0 +1,34 @@
+.mainReview-div{
+    display: inline-block;
+    width: 33.333%;
+    padding: 20px;
+}
+.subReview-div{
+    display: flex;
+    align-items:"center";
+    gap:"15px"
+}
+
+
+div.subReview-div img{
+    width: 100%;
+}
+div.mainReview-div.subReview-div-1{
+    margin-left:'12px'
+}
+
+
+.subReview-div-1 p{
+    padding-top: 10px;
+    padding-bottom: 22px;
+}
+.subReview-div-1 span{
+    padding-top:"25px";
+    color:'#ffffff';
+    border-bottom:"2px solid #FFCE6D";
+    cursor:"pointer";
+    
+}
+span img{
+    width: 100%;
+}

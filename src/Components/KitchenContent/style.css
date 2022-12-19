@@ -1,0 +1,43 @@
+.kitchenContent{
+    display: flex;
+    align-items: center;
+
+}
+
+.kitchenContent h1,
+.kitchenContent p{
+    padding-left: 12px;
+}
+.kitchenContent h1{
+    font-family: 'Roboto';
+    font-style: normal;
+    font-weight: 700;
+    font-size: 16px;
+    line-height: 19px;    
+    color: #FFFFFF;   
+
+}
+.kitchenContent p{
+    font-family: 'Roboto';
+    font-style: normal;
+    font-weight: 400;
+    font-size: 14px;
+    line-height: 16px;
+    color: #FFFFFF;   
+    
+}
+.line-border{
+    border-right: 80px solid #FFCE6D ;
+    margin-left: 12px;
+
+}
+span{
+    font-family: 'Roboto';
+    font-style: normal;
+    font-weight: 700;
+    font-size: 18px;
+    line-height: 23px;
+    text-align: right;
+    color: #FFCE6D;
+    padding-left: 8px;
+}

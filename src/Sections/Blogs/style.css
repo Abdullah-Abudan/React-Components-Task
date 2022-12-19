@@ -1,0 +1,11 @@
+section.Blogs{
+    background-image: url('../../Images/About/start.svg');
+    background-repeat: no-repeat;    
+    background-size: cover;
+    min-height: fit-content;
+    min-width: 100%;
+    overflow-y: hidden;
+    position: relative;
+    padding: 80px 30px 80px;
+}
+
