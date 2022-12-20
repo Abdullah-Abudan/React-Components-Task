@@ -1,5 +1,4 @@
 import "./style.css"
-// import email_subscribe from "../../Images/Footer/email-subscribe.svg"
 export default function Subscribe (props){
         return (
                     <div style={{display:"flex"}}>

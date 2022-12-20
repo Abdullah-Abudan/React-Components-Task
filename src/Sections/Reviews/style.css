@@ -9,17 +9,6 @@
     padding-bottom: 60px;
     padding: 0 30px;
 }
-.reviews p{
-    font-family: 'Roboto';
-    font-style: normal;
-    font-weight: 400;
-    font-size: 16px;
-    line-height: 19px;
-    letter-spacing: 0.13em;
-    text-transform: capitalize;
-    
-    color: #FFFFFC;    
-}
 .reviews>*{
     background: rgba(16, 20, 24, 0.7);
 }
